@@ -1,0 +1,5 @@
+/assets/conect/*.json
+/assets/temp
+package-lock.json
+node_modules
+desktop.ini
